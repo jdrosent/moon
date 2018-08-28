@@ -1,14 +1,15 @@
 # Site
 title:              James Rosenthal
-bio:                'Portfolio'
-description:        "PhD Student, Electrical Engineer, NSF Graduate Research Fellow"
+bio:                '"If you wish to make an apple pie from scratch, <br> you must first invent the universe."'
+description:        'PhD Student, Electrical Engineer, NSF Graduate Research Fellow'
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.png'
+background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-#url:                http://localhost:4000
+url:                http://localhost:4000
+#url:                https://github.com/jdrosent/jdrosent.github.io
 
 
 # Jekyll
